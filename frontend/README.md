@@ -39,5 +39,3 @@ Open your browser and navigate to:
 http://localhost:3000
 
 ---
-
-Built with ❤️ by Abdul using Next.js, React, Tailwind, Stream.io, Gemini AI, Vision Agents.
