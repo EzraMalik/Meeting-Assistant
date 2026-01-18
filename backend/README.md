@@ -3,8 +3,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ezramalik/smart-meeting-assistant.git
-cd smart-meeting-assistant-backend
+git clone https://github.com/ezramalik/meeting-assistant.git
+cd meeting-assistant-backend
 ```
 
 ### 2️⃣ Install Dependencies and Activate Virtual Environment
@@ -25,5 +25,3 @@ Navigate to:
 Open [http://localhost:3000](http://localhost:3000) within your browser to see the result.
 
 ---
-
-Built with ❤️ by Abdul using Next.js, React, Tailwind, Stream.io, Gemini AI, Vision Agents.
