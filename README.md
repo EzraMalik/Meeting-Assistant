@@ -34,3 +34,5 @@ The application leverages cutting-edge AI models and real-time communication to 
 - **Stream**
 
 ---
+
+Built with ❤️ by Abdul using Next.js, React, Tailwind, Stream.io, Gemini AI, Vision Agents.
