@@ -3,8 +3,8 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-meeting-assistant.git
-cd smart-meeting-assistant-frontend
+git clone https://github.com/ezramalik/meeting-assistant.git
+cd meeting-assistant-frontend
 ```
 
 ### 2️⃣ Install Dependencies
@@ -24,8 +24,9 @@ NEXT_PUBLIC_STREAM_API_KEY=your_stream_api_key
 STREAM_SECRET_KEY=your_stream_secret_key
 GEMINI_API_KEY=your_gemini_api_key
 VISION_AGENT_API_KEY=your_vision_agent_key
-⚠️ Never commit your .env.local file to GitHub.
 ```
+
+⚠️ Never commit your .env.local file to GitHub.
 
 ▶️ Running the Application
 
