@@ -26,8 +26,6 @@ GEMINI_API_KEY=your_gemini_api_key
 VISION_AGENT_API_KEY=your_vision_agent_key
 ```
 
-⚠️ Never commit your .env.local file to GitHub.
-
 ▶️ Running the Application
 
 ```bash
