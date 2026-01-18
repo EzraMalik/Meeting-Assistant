@@ -1,5 +1,3 @@
-First, run the development server:
-
 ##⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
