@@ -21,9 +21,6 @@ uv venv
 python main.py
 ```
 
-(make sure that your frontend is already running,
-using the npm run dev command in the terminal by navigating to cd/frontend)
-
 Navigate to:
 Open [http://localhost:3000](http://localhost:3000) within your browser to see the result.
 
