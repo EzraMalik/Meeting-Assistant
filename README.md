@@ -2,7 +2,7 @@
 
 # 🧠 Smart Meeting Assistant
 
-**Smart Meeting Assistant** built to enhance virtual meetings by providing real-time insights, summaries, and intelligent assistance.  
+**Smart Meeting Assistant** built to enhance virtual meetings by providing real-time insights, summaries, and intelligent assistance.
 The application leverages cutting-edge AI models and real-time communication to make meetings more productive and actionable.
 
 ---
